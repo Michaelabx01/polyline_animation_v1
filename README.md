@@ -8,7 +8,7 @@ A Flutter package for animating polylines on Google Maps, designed and developed
 - **Customizable**: Easily customize the color and width of the polylines and their background.
 - **Dynamic Updates**: Supports dynamic updates and real-time animations.
 
-![Polyline Animation Example](https://example.com/polyline_animation.gif)
+![polyline_animation-_online-video-cutter com_](https://github.com/Michaelabx01/polyline_animation_v1/assets/137433436/63b78d96-e8ad-4b85-8bb5-2d64d02d8061)
 
 ## Getting started
 
